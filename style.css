@@ -1,6 +1,17 @@
-.contato__nome::____________ {
-    font-family: var(--fonte-principal);
-    color: var(--azul);
-    _______________: url("../img/cartinha.svg") no-________;
-    padding-left: 2em;
+header {
+    background-color: #000000;
+    color: white;
+  display: flex;
+}
+body{
+  background-color:#00;
+}
+.escola-texto-um{
+color: white;
+}
+.escola-texto-dois{
+  color: white;
+}
+.estudante-titulo{
+   color: white;
 }
